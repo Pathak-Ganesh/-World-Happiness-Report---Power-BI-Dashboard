@@ -92,7 +92,8 @@ This project is built as part of my learning journey and to showcase my skills a
 2. Open using **Power BI Desktop** (any version 2023+).
 3. Explore, analyze and interact with the dashboard.
 
----
+![Happiness Dashboard](https://github.com/user-attachments/assets/d231e669-a2d2-4d2b-99dd-d3c2fc18cb62)
+
 
 ✅ *Thank you for visiting my project repository!*  
 *For any queries or collaboration, feel free to connect with me.*
